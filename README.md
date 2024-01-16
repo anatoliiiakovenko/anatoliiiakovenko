@@ -1,6 +1,6 @@
 
-<p align="center"> 🏠 Hello, my name is Anatoliy</p>
-I have been working as frontend developer since July 2023
+<p align="center"># 🏠 Hello, my name is Anatoliy</p>
+### I have been working as frontend developer since July 2023
 
 
 
@@ -35,15 +35,11 @@ I have been working as frontend developer since July 2023
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
 
-
+<br><br><br>
 
 ## 📰 Social links
-
  - [LinkedIn](linkedin.com/in/anatoliyyakovenko)
  - [Telegram](https://t.me/YakovenkoAnatoliy)
 
-
-## 👾 GitHub widgets
- <img src="https://github-readme-stats.vercel.app/api?username=anatoliiiakovenko&show_icons=true&locale=en" alt="GitHub stats"/>
 
 
