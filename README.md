@@ -1,6 +1,6 @@
 
-<p align="center"># 🏠 Hello, my name is Anatoliy</p>
-### I have been working as frontend developer since July 2023
+<p align="center"> 🏠 Hello, my name is Anatoliy</p>
+I have been working as frontend developer since July 2023
 
 
 
