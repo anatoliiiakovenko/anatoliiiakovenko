@@ -36,7 +36,10 @@ I have been working as fullstack developer since July 2023
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" align="left" width="60" height="80" alt="Vite" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Skills" align="left" width="60" height="80"/> 
+
+
+
 
 <br><br><br><br><br><br><br>
 
