@@ -8,7 +8,7 @@ I have been working as fullstack developer since July 2023
 ## 💻 Work Experience
 | Company | Years | Position | Stack |
 | :------------ | :----------- | :----------- | :----------- |
-| BN digital | 2023-Present | Fullstack Developer | JS/TS React Node.js |
+| BN digital | 2023-Present | Fullstack Developer | JS/TS React Next.js |
 
 
 
